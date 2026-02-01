@@ -12,6 +12,9 @@ def index():
     },
     {
         "name":"Balwant"
+    },
+    {
+        "name":"Singh"
     }
     ]
 
